@@ -1,4 +1,4 @@
-# mart-Study-Planner-Greedy-vs-Dynamic-Programming-
+# Smart-Study-Planner-Greedy-vs-Dynamic-Programming-
 
 ## Overview
 
