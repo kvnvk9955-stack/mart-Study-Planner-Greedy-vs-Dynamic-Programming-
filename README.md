@@ -179,3 +179,6 @@ This project highlights the trade-off between speed and optimality in algorithm 
 
 ---
 
+## License
+
+This project is for educational purposes as part of an academic course requirement.
